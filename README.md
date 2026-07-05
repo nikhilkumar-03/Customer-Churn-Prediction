@@ -70,13 +70,13 @@ Logistic Regression outperformed both Random Forest and XGBoost on recall and RO
 ## Repository Structure
 
 ```
-├── Customer_Churn_Prediction.ipynb   # Full analysis: EDA, modeling, evaluation, interpretation
-├── WA_Fn-UseC_-Telco-Customer-Churn.csv   # Dataset
-├── streamlit_app.py                  # Deployed web app
-├── churn_model.pkl                   # Trained model
-├── scaler.pkl                        # Fitted StandardScaler
-├── model_columns.pkl                 # Column structure used for inference
-├── requirements.txt                  # Dependencies
+├── Customer_Churn_Prediction.ipynb         # Full analysis: EDA, modeling, evaluation, interpretation
+├── WA_Fn-UseC_-Telco-Customer-Churn.csv    # Dataset
+├── streamlit_app.py                        # Deployed web app
+├── churn_model.pkl                         # Trained model
+├── scaler.pkl                              # Fitted StandardScaler
+├── model_columns.pkl                       # Column structure used for inference
+├── requirements.txt                        # Dependencies
 └── README.md
 ```
 
