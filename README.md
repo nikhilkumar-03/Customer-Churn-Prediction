@@ -2,8 +2,7 @@
 
 A machine learning project that predicts whether a telecom customer is likely to churn (cancel their service), using account details, subscribed services, and billing information. Built end-to-end — from data cleaning to a deployed, interactive web app.
 
-**Live Demo on Hugging Face:** [Try it here](https://huggingface.co/spaces/nikkhil03/customer-churn-prediction)
----
+
 
 ## Problem Statement
 
